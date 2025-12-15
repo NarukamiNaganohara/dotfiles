@@ -1,0 +1,14 @@
+max-visible=10
+layer=top
+font=FiraCode Nerd Font 11
+
+background-color=#24283bdd
+text-color=#a9b1d6       
+border-color=#414868
+
+border-radius=7
+max-icon-size=48
+default-timeout=10000
+anchor=top-right
+margin=20
+padding=15
