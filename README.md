@@ -6,6 +6,13 @@ Hello! 👋 Welcome to my personal dotfiles repository. This is a collection of 
 
 This repo includes configs for a rice'd (customized) setup with themes, keybindings, and utilities for productivity and aesthetics. It's a work in progress, and I'm sharing it to document my setup.
 
+## ScreanShot
+
+![Lock](wallpaper/screanshot/screanshot1.png)
+![Desctop](wallpaper/screanshot/screanshot2.png)
+![Fastfetch](wallpaper/screanshot/screanshot3.png)
+![Workspace](wallpaper/screanshot/screanshot4.png)
+
 ## Required Packages and Tools
 
 Here are the key packages and tools used in this dotfiles setup. I've included links to their official documentation for installation and configuration details. These are the core ones; others like btop, cava, fastfetch, etc., are also configured but not exhaustive.
@@ -64,6 +71,8 @@ Other tools like Goverlay, MangoHud, vkBasalt, MPV, and more are included for ga
 - Specifically, in the Hyprland configs (`hypr/` directory), there are potential issues or "errors" (as in, unoptimized parts) related to monitor setup. You **must** adjust the monitor configurations (e.g., resolutions, positions, and outputs) to match your own hardware. The same goes for Hyprlock (screen locker) and wallpaper settings—they rely on specific paths and themes that might not exist on your system.
 
 - Always back up your existing configs before testing anything. Test in a virtual machine if possible.
+
+- Don't forget to move the icons and the color scheme to /usr/share/icons and usr/share/themes.
 
 - Some configs assume Arch Linux with AUR access (via yay), so compatibility on other distros may vary.
 
@@ -132,5 +141,7 @@ This setup draws inspiration from key people and technologies in the Linux commu
 
 Special thanks to the broader FOSS community for tools like these!
 
+Thank you for visiting this repository! If you find it useful, star it or open an issue with suggestions. Happy configuring! 🚀
+kvantum qt5ct nwg-look mangohud goverlay vkbasalt
 Thank you for visiting this repository! If you find it useful, star it or open an issue with suggestions. Happy configuring! 🚀
 kvantum qt5ct nwg-look mangohud goverlay vkbasalt
